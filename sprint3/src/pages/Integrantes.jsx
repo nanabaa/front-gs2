@@ -30,10 +30,10 @@ function Integrantes() {
 
           <IntegranteCard
             foto={Foto3}
-            nome="Anabelle Rosseto"
-            rm="564526"
-            git="https://github.com/AnabelleRosseto"
-            linkedin="https://www.linkedin.com/in/anabelle-rosseto-rodrigues"
+            nome="Rafael Carvalho Meireles"
+            rm="563413"
+            git="http://github.com/rafaelcmeireles"
+            linkedin="https://www.linkedin.com/in/rafael-carvalho-meireles-0a3a87130/"
           />
 
         </div>

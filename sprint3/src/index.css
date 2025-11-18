@@ -2,12 +2,12 @@
 @import "tailwindcss";
 
 @theme {
-  --color-text: #000742;
+  --color-text: #25246F;
   --color-text-white: #F4F4F4;
   --color-bg: #41BFCC;
-  --color-footer:#ADDCF0;
+  --color-footer:#A092CF;
     --font-lexend: 'Lexend', sans-serif;
-  --color-blue-light:#7D8CF0;
+  --color-blue-light:#2A6098;
    --animate-title: title 2s ease-in-out;
 }
 

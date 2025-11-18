@@ -6,7 +6,7 @@ function Navbar() {
     <nav className="bg-gray-900 text-white p-6 flex justify-center lg:justify-between items-center flex-wrap">
       <h1 className="font-bold mx-26 my-5 md:my-0 text-2xl hover:text-gray-400 ">
         <Link to="/">
-            Preztech
+            ACIR Systems
           </Link></h1>
       <ul className="flex gap-8 sm:mx-26">
         <li>

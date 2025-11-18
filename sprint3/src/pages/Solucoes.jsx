@@ -1,4 +1,4 @@
-import backgroundImage2 from '../img/Group 28.png';
+import backgroundImage2 from '../img/banner2.jpg';
 import img1 from '../img/Rectangle 15.png';
 import img2 from '../img/Rectangle 16.png';
 import img3 from '../img/Rectangle 17.png';
@@ -14,7 +14,7 @@ function Solucoes() {
                     backgroundRepeat: 'no-repeat'
                 }}>
 
-                <h1 className="text-4xl md:text-6xl font-bold text-text-white w-xl pl-25 animate-title">Entenda mais sobre nosso projeto</h1>
+                <h1 className="text-4xl md:text-6xl font-bold text-text w-xl pl-25 animate-title">Entenda mais sobre nosso projeto</h1>
             </section>
 
             <section className='min-h-screen bg-text-white flex flex-col content-center text-justify flex-wrap lg:p-25 gap-10 '>

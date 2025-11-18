@@ -3,7 +3,7 @@ function Footer() {
     <>
     <footer className='h-25 bg-footer flex justify-center items-center text-center'>
                 <h1 className='text-xl font-bold text-text-white'>
-                  @preztech 2025 todos os direitos reservados
+                  @ACIR Systems 2025 Todos os direitos reservados.
                 </h1>
             </footer>
     </>
