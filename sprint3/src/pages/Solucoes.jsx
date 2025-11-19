@@ -33,7 +33,7 @@ function Solucoes() {
                         
                     </div>
                     <div>
-            <a className="bg-roxo w-100 pt-2 pb-2 pl-10 pr-10 h-50 text-2xl rounded-3xl mt-15 text-text-white cursor-pointer" type="submit" name="submit" id="submit" href="/gerador">Acessar Gerador de Tabelas</a>
+            <a className="bg-roxo w-100 pt-2 pb-2 pl-10 pr-10 h-50 text-2xl rounded-3xl mt-15 text-text-white cursor-pointer" type="submit" name="submit" id="submit" href="/gerador">Acessar Gerador de Equipes</a>
           </div>
             </section>
         </>
