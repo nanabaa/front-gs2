@@ -17,8 +17,8 @@ const IntegranteCard = ({
         className='pb-5' 
         alt={`Foto Integrante`} 
       />
-      <h4 className='font-bold text-2xl text-bg text-center'>{nome}</h4>
-      <p className='text-xl text-blue-light'>{turma} - RM{rm}</p>
+      <h4 className='font-bold text-2xl text-azulclaro text-center'>{nome}</h4>
+      <p className='text-xl text-azul'>{turma} - RM{rm}</p>
       <div className='flex pt-5 w-full justify-evenly'>
           <a href={git}>
             <img src={iconGit}  alt="GitHub" />

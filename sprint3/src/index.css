@@ -9,6 +9,10 @@
     --font-lexend: 'Jura', sans-serif;
   --color-blue-light:#2A6098;
    --animate-title: title 2s ease-in-out;
+   --color-lilas: #E2DAFF;
+   --color-roxo: #A092CF;
+   --color-azul: #25246F;
+   --color-azulclaro: #2A6098;
 }
 
 @layer utilities {

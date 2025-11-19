@@ -29,19 +29,19 @@ function Contato() {
 
         <form className="flex flex-col items-center gap-5" name="forms" id="forms" method="get" onSubmit={enviarForms} action="">
           <div>
-            <input className="w-sm sm:w-lg md:w-3xl h-[50px] border-00 outline-0 rounded-b-md border-b-5 border-bg focus:border-blue-light" type="text" name="nome" id="nome" placeholder="Nome" required />
+            <input className="w-sm sm:w-lg md:w-3xl h-[50px] border-00 outline-0 rounded-b-md border-b-5 border-lilas focus:border-roxo" type="text" name="nome" id="nome" placeholder="Nome" required />
           </div>
           <div>
-            <input className="w-sm sm:w-lg md:w-3xl h-[50px] border-00 outline-0 rounded-b-md border-b-5 border-bg focus:border-blue-light" type="email" name="email" id="email" placeholder="E-mail" required />
+            <input className="w-sm sm:w-lg md:w-3xl h-[50px] border-00 outline-0 rounded-b-md border-b-5 border-lilas focus:border-roxo" type="email" name="email" id="email" placeholder="E-mail" required />
           </div>
           <div>
-            <input className="w-sm sm:w-lg md:w-3xl h-[50px] border-00 outline-0 rounded-b-md border-b-5 border-bg focus:border-blue-light" type="tel" name="telefone" id="telefone" placeholder="(00) 00000-0000" value={telefone} onChange={telefoneChange} required />
+            <input className="w-sm sm:w-lg md:w-3xl h-[50px] border-00 outline-0 rounded-b-md border-b-5 border-lilas focus:border-roxo" type="tel" name="telefone" id="telefone" placeholder="(00) 00000-0000" value={telefone} onChange={telefoneChange} required />
           </div>
           <div>
-            <input className="w-sm sm:w-lg md:w-3xl h-[50px] border-00 outline-0 rounded-b-md border-b-5 border-bg focus:border-blue-light" type="text" name="mensagem" id="mensagem" placeholder="Insira sua mensagem" required />
+            <input className="w-sm sm:w-lg md:w-3xl h-[50px] border-00 outline-0 rounded-b-md border-b-5 border-lilas focus:border-roxo" type="text" name="mensagem" id="mensagem" placeholder="Insira sua mensagem" required />
           </div>
           <div>
-            <button className="bg-bg w-50 h-12 text-2xl rounded-3xl mt-15 text-text-white cursor-pointer" type="submit" name="submit" id="submit">Enviar</button>
+            <button className="bg-roxo w-50 h-12 text-2xl rounded-3xl mt-15 text-text-white cursor-pointer" type="submit" name="submit" id="submit">Enviar</button>
           </div>
         </form>
       </section>

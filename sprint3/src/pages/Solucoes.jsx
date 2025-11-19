@@ -32,6 +32,9 @@ function Solucoes() {
                         </div>
                         
                     </div>
+                    <div>
+            <button className="bg-roxo w-50 h-12 text-2xl rounded-3xl mt-15 text-text-white cursor-pointer" type="submit" name="submit" id="submit">Acessar Gerador de Tabelas</button>
+          </div>
             </section>
         </>
     );
