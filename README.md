@@ -1,10 +1,12 @@
-# front-sprint3
+# Global Solution 2 - Gerador de Equipes
 
-No challenge em parceria com o Hospital das Clínicas, foi proposto uma solução para reduzir a taxa de absenteísmo em consultas online. Para apresentar nossa solução, criamos um site simples com todos os detalhes da equipe e do projeto, que consiste em uma função de chat, popular em aplicativos de conversas e consequentemente, intuitivo.
+Num futuro cada vez mais moldado pela inteligência artificial, identificamos uma oportunidade única para transformar como as equipes de trabalho são formadas. O problema central reside na abordagem tradicional das empresas, que frequentemente priorizam apenas as habilidades técnicas na formação de equipes, negligenciando a complexa dinâmica humana essencial para o sucesso sustentável. Essa lacuna gera conflitos internos, rotatividade desnecessária em projetos e uma produtividade abaixo do potencial, mesmo quando se conta com talentos individualmente excelentes, resultando em desgaste emocional e perda de eficiência.
 
-Focando em um design intuitivo e que muitos já estão familiarizados, inclusive o público sênior,  propomos uma solução simples, que agrupa todos os chats usados pelo usuário em diferentes plataformas (como o Whatsapp e o email, usados pelo HC) para diferentes funções, em uma única página de chat, separando suas funções por contato e facilitando o acesso à essas informações, incluindo um novo ChatBot automatizado e os tutoriais para uso do app e para todo o processo de consulta.
-Também há a pretensão de incluir posteriormente leitura por voz e tradução para libras; além de tour guiado com Blocking Modal Walkthrough, que são curtas animações que indicam o que deve ser feito, e só desaparecem da tela após a conclusão da etapa.
-Outra necessidade notada foi a de ajuste de câmera e aúdio antes da consulta, para evitar o consumo do tempo de forma não produtiva, sendo resolvido com uma tela de preparo, assim como em plataformas de reuniões online, que permite que o usuário confira suas configurações antes de entrar na reunião. Essa configuração seria acompanhada da indicação de entrar na reunião 10 minutos antes, dando o tempo necessário para todos os ajustes e evitando atrasos.
+Nossa proposta é uma plataforma que utiliza a inteligência artificial para criar um método mais inteligente e humano de formar equipes. No site, cada profissional cadastra informações sobre suas habilidades, experiências, gostos relacionados ao trabalho e seu estilo de trabalho. A IA, por sua vez, analisa esses dados para encontrar a melhor compatibilidade entre os membros, sugerindo combinações que prometem não apenas maior produtividade, mas também um ambiente mais agradável e coeso.
+
+O público-alvo inicial inclui empresas de tecnologia, consultorias e startups, segmentos onde a formação de equipes dinâmicas e a colaboração eficaz são críticas para o sucesso. Para essas organizações, o impacto esperado é significativo: um aumento na eficiência dos projetos e uma redução na rotatividade interna. Para os profissionais, a promessa é de ambientes de trabalho mais gratificantes e um desenvolvimento acelerado por meio de parcerias verdadeiramente complementares.
+
+No gerador de equipes, informações como: habilidades semelhantes ou variadas; quantidades de equipes a serem formadas; pessoas por equipe devems ser inseridas antes de inserir as pessoas, essas que por sua vez irão preencher tabelas de 5 campos contendo informações como: principais habilidades; últimos cargos e softskills. O algoritmo analisará a semelhança entre as tabelas para calcular a melhor equipe.
 
 Ao abrir o arquivo deve-se abrir o terminal e inserir: 
 1. cd sprint3
@@ -23,7 +25,7 @@ Footer - Navbar - Cards dos integrantes
 
 3. Pasta de páginas, contendo:
 
-Contato - FAQ - Home - Integrantes - Soluções
+Contato - FAQ - Home - Integrantes - Soluções - Gerador
 
 
 4. Além dessas pastas, a pasta SRC contém 3 arquivos importantes:
@@ -31,10 +33,19 @@ Contato - FAQ - Home - Integrantes - Soluções
 App - Main - Index.css
 
 
-Link do repositório: https://github.com/nanabaa/front-sprint3.git
+Link do repositório: 
+
+Link do vídeo: 
 
 
-Link do vídeo: https://youtu.be/J7RLB5clnOc
+Ana Clara de Oliveira Nascimento | RM561957 | 1TDSR
+git: https://github.com/isismodd
+linkedin: https://www.linkedin.com/in/isis-macedo-aa515920b/
 
+Isis Macedo e Andrade | RM561497 | 1TDSR
+git: https://github.com/isismodd
+linkedin: https://www.linkedin.com/in/isis-macedo-aa515920b/
 
-Ana Clara de O. Nascimento rm561957 - Isis Macedo e Andrade rm561497 - Anabelle Roseto rm564526
+Rafael Carvalho Meireles | RM563413 | 1TDSR
+git: http://github.com/rafaelcmeireles
+linkedin: https://www.linkedin.com/in/rafael-carvalho-meireles-0a3a87130/
