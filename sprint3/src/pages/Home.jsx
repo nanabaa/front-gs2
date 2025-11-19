@@ -22,19 +22,14 @@ function Home() {
                 </div>
             </section>
 
-
-
-
-
-
             <section className='min-h-screen bg-text-text-white flex flex-col justify-center items-center gap-50 flex-wrap'>
-                <img src={Linha1} className='self-start !justify-self-start !items-start py-10 w-lg lg:p-0 lg:size-auto' alt="LInha 1" />
+                
                 <div className='flex justify-center md:flex-none flex-row gap-35 md:gap-50 flex-wrap'>
                     <div className='max-w-[380px] md:max-w-[480px] min-h-[144px]  flex flex-row items-center text-text'>
                         <img src={Icon1} className='w-15 h-15 mr-5' alt="Icone Missão" />
                         <div className='flex flex-col text-justify gap-2'>
                             <h4 className='font-bold text-2xl sm:text-4xl '>Por que?</h4>
-                            <p className='text-xl sm:text-2xl'>Num futuro cada vez mais moldado pela inteligência artificial, identificamos uma oportunidade única para transformar como as equipes de trabalho são formadas.
+                            <p className='text-xl sm:text-2xl'>Num futuro cada vez mais moldado pela inteligência artificial, enxergamos a necessidade de inovar, desafiar e redesenhar a forma como vivemos e lidamos com as situações.
                             </p>
                         </div>
                     </div>
@@ -47,7 +42,7 @@ function Home() {
                         </div>
                     </div>
                 </div>
-                <img src={Linha2} className='self-end !justify-self-end !items-end py-10 w-lg lg:p-0 lg:size-auto' alt="Linha 2" />
+               
             </section>
 
 
