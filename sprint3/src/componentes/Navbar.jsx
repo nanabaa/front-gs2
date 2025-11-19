@@ -29,6 +29,11 @@ function Navbar() {
             FAQ
           </Link>
         </li>
+        <li>
+          <Link to="/gerador" className="hover:text-gray-400 font-bold text-lg sm:text-xl">
+            Gerador
+          </Link>
+        </li>
       </ul>
     </nav>
   </>

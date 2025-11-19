@@ -19,8 +19,9 @@ function Pacientes(){
     
     return(
         
-        <>
-        </>
+        <section className="h-[53.5rem] flex flex-col justify-center items-center">
+        <h2 className="text-3xl mb-20 md:mt-0">Gerador de equipes</h2>
+        </section>
     )
 }
 
